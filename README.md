@@ -3,6 +3,7 @@ An AI checkers game
 Used minimax decision rule for the tree of depth three to analyze next move
 To run the game use command:
 ./checkers.c < test.txt
+
 Note that to provide implementaion of game I have given test.txt file. One can generate thier own test files as they wish :)
 
 Checkers, or draughts, is a strategy board game played by two players. There are many variants of checkers. For a guide to checker’s families and rules, see https://www.fmjd.org/downloads/Checkers_families_ and_rules.pdf
