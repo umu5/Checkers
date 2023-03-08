@@ -2,7 +2,7 @@
 An AI checkers game
 Used minimax decision rule for the tree of depth three to analyze next move
 To run the game use command:
-./checkers.c < test.txt
+./checkers < test.txt
 
 Note that to provide implementaion of game I have given test.txt file. One can generate thier own test files as they wish :).
 description about test file:
